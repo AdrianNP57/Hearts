@@ -10,7 +10,7 @@ https://globalgamejam.org/2020/diversifiers
 - Unreal Engine 4: https://www.unrealengine.com/en-US/
 - Piskel: https://www.piskelapp.com/
 - Material Design (Color Tool): https://material.io/resources/color/#!/?view.left=0&view.right=0
-- Images to .ico convertor online: https://www.online-convert.com/result/cf0a25b6-0281-44b7-ac72-5470e6fb8fd9
+- Images to .ico convertor online: https://www.audacityteam.org/
 
 
 # Special thanks - External assets
@@ -18,3 +18,4 @@ https://globalgamejam.org/2020/diversifiers
 - FMOfficial and Toothy (font): https://fmofficial.itch.io/toothy
 - pngimage.net Dialogue image: https://pngimage.net/globo-de-comic-png/
 - Crysknife007 and the heart beat: https://cheesynirvosa.bandcamp.com/track/slow-heartbeat-sound-sleep-and-relaxation-aid --> License: https://creativecommons.org/licenses/by-sa/3.0/
+- Breaking Copyright — Music for youtube videos and their Ambient Music (No Copyright) ⛺: https://youtu.be/er--pnwFDgU
