@@ -11,6 +11,7 @@ https://globalgamejam.org/2020/diversifiers
 - Piskel: https://www.piskelapp.com/
 - Material Design (Color Tool): https://material.io/resources/color/#!/?view.left=0&view.right=0
 - Images to .ico convertor online: https://www.online-convert.com/result/cf0a25b6-0281-44b7-ac72-5470e6fb8fd9
+- Dialogue image: https://pngimage.net/globo-de-comic-png/
 
 # Special thanks - External assets
 - pedrofmra and Walk cycle (inc): https://pedrofmra.itch.io/walkcycle
