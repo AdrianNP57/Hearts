@@ -17,3 +17,4 @@ https://globalgamejam.org/2020/diversifiers
 - pedrofmra and Walk cycle (inc): https://pedrofmra.itch.io/walkcycle
 - FMOfficial and Toothy (font): https://fmofficial.itch.io/toothy
 - pngimage.net Dialogue image: https://pngimage.net/globo-de-comic-png/
+- Crysknife007 and the heart beat: https://cheesynirvosa.bandcamp.com/track/slow-heartbeat-sound-sleep-and-relaxation-aid --> License: https://creativecommons.org/licenses/by-sa/3.0/
