@@ -1,5 +1,5 @@
 # Hearts
-Hearts made by Adrián Navarro Pérez for the Global Game Jam 2020
+Hearts made by Adrián Navarro Pérez for the Global Game Jam 2020 is a game meant to learn about how to heal a broken heart. In Hearts, two players sit one next to each other. The first player needs to hold hands with the second one and try to listen to their heartbeat while pressing a key to slowly heal a virtual heart. At the end of the game and when the virtual heart has been healed, both players need to discuss their feelings. Finally, the players swap roles and they restart the game.
 
 # Diversifiers from GGJ20
 https://globalgamejam.org/2020/diversifiers
