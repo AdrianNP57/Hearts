@@ -19,3 +19,6 @@ https://globalgamejam.org/2020/diversifiers
 - pngimage.net Dialogue image: https://pngimage.net/globo-de-comic-png/
 - Crysknife007 and the heart beat: https://cheesynirvosa.bandcamp.com/track/slow-heartbeat-sound-sleep-and-relaxation-aid --> License: https://creativecommons.org/licenses/by-sa/3.0/
 - Breaking Copyright — Music for youtube videos and their Ambient Music (No Copyright) ⛺: https://youtu.be/er--pnwFDgU
+
+# License of Hearts
+As any other Global Game Jam, this game is under the Attribution-Noncommercial-Share Alike 3.0 version of the Creative Commons License (https://creativecommons.org/licenses/by-nc-sa/3.0/)
