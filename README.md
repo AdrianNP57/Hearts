@@ -3,8 +3,7 @@ Hearts made by Adrián Navarro Pérez for the Global Game Jam 2020
 
 # Diversifiers from GGJ20
 https://globalgamejam.org/2020/diversifiers
-- Example1
-- Example2
+- A kind of cooperation (sponsored by Sony Interactive Entertainment)
 
 # Software used
 - Unreal Engine 4: https://www.unrealengine.com/en-US/
