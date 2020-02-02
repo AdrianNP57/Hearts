@@ -3,7 +3,7 @@ Hearts made by Adrián Navarro Pérez for the Global Game Jam 2020 is a game mea
 
 At the end of each round, It is extremely important to discuss your feelings with the other person in order to understand better yourself and all the people who care and look after you. Appreciate them as they deserve! <3
 
-Because at the end, what heals a broken heart is not a replacement, but the love which is surrounding us everyday!
+Because in the end, what heals a broken heart is not a replacement, but the love which is surrounding us every day!
 
 # Diversifiers from GGJ20
 https://globalgamejam.org/2020/diversifiers
