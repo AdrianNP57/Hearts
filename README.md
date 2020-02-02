@@ -10,6 +10,7 @@ https://globalgamejam.org/2020/diversifiers
 - Piskel: https://www.piskelapp.com/
 - Material Design (Color Tool): https://material.io/resources/color/#!/?view.left=0&view.right=0
 - Images to .ico convertor online: https://www.audacityteam.org/
+- Audacity: https://www.audacityteam.org/
 
 
 # Special thanks - External assets
